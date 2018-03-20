@@ -1,3 +1,5 @@
+/* eslint-env node*/
+
 var WebSocket = require("ws");
 var WebSocketServer = WebSocket.Server;
 var port = 3001;
